@@ -1,2 +1,6 @@
 This is a great deal for me
 This is comaparison lecture
+
+incredible
+
+tring git merge conflict

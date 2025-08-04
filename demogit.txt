@@ -1,3 +1,7 @@
 Cool
 This is comaparison lecture 2
+<<<<<<< Updated upstream
 This is stash lecture, change in Main File
+=======
+This is stash lecture, change in File 1
+>>>>>>> Stashed changes
